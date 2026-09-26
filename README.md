@@ -35,3 +35,13 @@ A collection of deep learning projects implemented using TensorFlow and Keras.
 - Text Classification
 - Time Series
 - Deep Learning
+
+- ## Datasets
+
+The datasets used in these projects are available from the following sources:
+
+- [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
+- [Food101 Dataset](https://www.tensorflow.org/datasets/catalog/food101)
+- [Bitcoin Historical Data](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
+- [Bitcoin Price Dataset](https://www.kaggle.com/competitions/bitcoin-price/data)
+
